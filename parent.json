@@ -2,12 +2,12 @@
     {
     "name" : "Ravi ", 
     "familyNme" : "Tamada",
-    "age :"45ans"
+    "age :"45"
 	
     },
     {
     "name" : "Tommy", 
-    "familyNme" : "Arnaud",
-    "age" :"30ans"
+    "familyName" : "Arnaud",
+    "age" :"30"
     }
 ]
