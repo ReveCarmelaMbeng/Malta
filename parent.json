@@ -1,11 +1,11 @@
-
-    {
-    "name" : "Ravi ", 
-    "familyName" : "Tamada",
-   "age" : "Quarante"
+  [{
+    "name":"Ravi ", 
+    "familyName":"Tamada",
+    "age":"Quarante"
     },
- {
+    {
     "name" : "john ", 
     "familyName" : "Malick",
-   "age" : "Dix"
+    "age" : "Dix"
     } 
+]
