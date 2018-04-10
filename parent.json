@@ -2,18 +2,18 @@
     "name":"Irene", 
     "familyName":"Medza",
     "age":"48 ans",
-    "image":"https://github.com/ReveCarmelaMbeng/Malta/blob/master/animal.jpg"
+    "image":"https://raw.githubusercontent.com/ReveCarmelaMbeng/Malta/master/animal.jpg"
     },
     {
     "name" : "Murielle", 
     "familyName" : "Arnaud",
     "age" : "57 ans",
-     "image" : "https://github.com/ReveCarmelaMbeng/Malta/blob/master/animal.jpg"
+     "image" : "https://raw.githubusercontent.com/ReveCarmelaMbeng/Malta/master/animal.jpg"
     },
    {
     "name" : "Clovis", 
     "familyName" : "Alumba",
     "age" : "67 ans",
-    "image" : "https://github.com/ReveCarmelaMbeng/Malta/blob/master/animal.jpg"
+    "image" : "https://raw.githubusercontent.com/ReveCarmelaMbeng/Malta/master/animal.jpg"
     }   
 ]
